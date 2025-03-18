@@ -1,1 +1,1 @@
-# complete-data-analyst-bootcamp-from-basics-to-advanced
+# complete-data-Scientist-bootcamp-from-basics-to-advanced
